@@ -12,3 +12,9 @@ SPI and I2C run as firmware instead of fixed logic.
 
 This repository is shared with collaborators and will be public by the
 submission deadline. Do not commit anything that must stay private.
+
+## Documentation
+
+Preliminary plans (drafts, open for discussion): see
+[docs/README.md](docs/README.md) for the architecture, roadmap, protocol
+notes and IHP SRAM integration notes.
